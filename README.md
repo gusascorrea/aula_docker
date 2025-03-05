@@ -7,3 +7,4 @@ cd aula docker
 docker build -t minha-imagem .
 
 docker docker run -d -p 8501:8501 --name meu-container minha-imagem
+'''
