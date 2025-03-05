@@ -1,10 +1,10 @@
-# aula_docker
+# Aula Docker
 
-'''bash
-git clone git@github.com:gusascorrea/aula_docker.git
-cd aula docker
+Este repositório contém exemplos práticos para aprender Docker.
 
-docker build -t minha-imagem .
+## Como usar
 
-docker docker run -d -p 8501:8501 --name meu-container minha-imagem
-'''
+1. Clone o repositório:
+   ```bash
+   git clone git@github.com:gusascorrea/aula_docker.git
+   cd aula_docker
