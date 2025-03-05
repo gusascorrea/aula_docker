@@ -13,7 +13,7 @@ Este repositório contém exemplos práticos para aprender Docker.
    ```bash
    docker build -t minha-imagem .
    ```
-3. Execute o container
+ 3. Execute o container
    ```bash
    docker run -d -p 8501:8501 --name meu-container minha-imagem
    ```
