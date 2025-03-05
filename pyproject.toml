@@ -1,0 +1,17 @@
+[project]
+name = "aula-docker"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "gusascorrea",email = "gustavo.araujo.correa@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit (>=1.43.0,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
